@@ -49,8 +49,8 @@ Public/sample Amazon sales dataset (commonly used for analytics portfolios and t
 ---
 
 **Built by:** Shashi Ranjan 
-**LinkedIn:** https://www.linkedin.com/in/shashi-ranjan-kumar-73066b190/ 
-**Portfolio** https://marketing-data-1.preview.emergentagent.com/
+**LinkedIn:** [https://www.linkedin.com/in/shashi-ranjan-kumar-73066b190/]
+**Portfolio**[ https://marketing-data-1.preview.emergentagent.com/]
 
 ⭐ Star this repo if you like it!
 
