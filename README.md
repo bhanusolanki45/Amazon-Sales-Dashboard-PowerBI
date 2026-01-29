@@ -3,7 +3,7 @@ Interactive Power BI dashboard for Amazon product sales analysis – tracking YT
 
 # Amazon Sales Dashboard - Power BI
 
-![Dashboard Preview]([Screenshots/Dashboard_Main_View.png](https://github.com/bhanusolanki45/Amazon-Sales-Dashboard-PowerBI/blob/main/Aamzon%20Sales%20Dashboard.pdf))
+![Dashboard Preview](https://github.com/bhanusolanki45/Amazon-Sales-Dashboard-PowerBI/blob/main/Aamzon%20Sales%20Dashboard.pdf)
 
 ## Project Overview
 Interactive Power BI dashboard analyzing Amazon e-commerce sales data. Provides insights into year-to-date (YTD) and quarterly sales performance, product category breakdown, top products by sales and reviews, and temporal trends (monthly and weekly).
