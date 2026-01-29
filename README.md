@@ -36,7 +36,7 @@ Interactive Power BI dashboard analyzing Amazon e-commerce sales data. Provides 
 Public/sample Amazon sales dataset (commonly used for analytics portfolios and tutorials).
 
 ## Screenshots
-![Main Dashboard]([Screenshots/Dashboard_Main_View.png](https://github.com/bhanusolanki45/Amazon-Sales-Dashboard-PowerBI/blob/main/Aamzon%20Sales%20Dashboard.pdf))
+![Main Dashboard]([Screenshots/Dashboard_Main_View.png](https://github.com/bhanusolanki45/Amazon-Sales-Dashboard-PowerBI/blob/main/Aamzon%20Sales%20Dashboard.pdf)
 
 *(Add additional screenshots for specific visuals if available)*
 
